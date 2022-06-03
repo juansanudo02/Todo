@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/juansanudo02/Todo/static/css/main.0c9a651c.css",
+    "main.js": "/juansanudo02/Todo/static/js/main.459e694c.js",
+    "index.html": "/juansanudo02/Todo/index.html",
+    "main.0c9a651c.css.map": "/juansanudo02/Todo/static/css/main.0c9a651c.css.map",
+    "main.459e694c.js.map": "/juansanudo02/Todo/static/js/main.459e694c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c9a651c.css",
+    "static/js/main.459e694c.js"
+  ]
+}
